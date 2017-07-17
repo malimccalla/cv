@@ -8,24 +8,18 @@ As a musician I've been told that I think differently, in sounds and pictures ra
 
 #### Collaboration
 
-  As a writer and artist it was my job to collaborate with other people. Working in a team has enabled me to create some of my best work. Through understanding and being able to see things from other peoples point of view I have always been able to make decisions based on     
- - Team work
- - Good Communication
- - adaptable
+  Being a writer it was my job to collaborate with other people, to construct musical stories and relatable lyrics. Working in a team has enabled me to create some of my best work. In being able to see things from other peoples point of view I have learnt to make effective decisions based on both emotional reasoning and intuition. At the very core of every successful collaborative project I have ever worked on lies good communication, a skill that I once feared but have come to master over time.
 
 #### Creative thinking
 
+  A big part of what attracts me to coding is that it presents new challenges in all shapes and sizes. My ability to apply creative thinking in both a digital and non-digital environment allows me to tackle these challenges from a different perspective. Not afraid to take chances, I know that in an ever changing tech industry you need to be able explore innovative and original ways to go about solving problems.
 
 #### Curiosity
 
-  - Quick grasp of concepts
+  Curiosity, as I'm sure the proverbial cat would protest, is the
 
 
-#### User Experience
-
-
-
-  Passionate
+  <!-- Passionate
 
   adaptable
 
@@ -40,14 +34,14 @@ As a musician I've been told that I think differently, in sounds and pictures ra
   cognitive benefits you gain just by learning an instrument.
   ]]
 
-  Allows me to solve problems more effectively and creatively
+  Allows me to solve problems more effectively and creatively -->
 
 ## Projects
 
 | Project        | Description   | Tech                                             |
 | -------------  |---------------|:--------------------:                              |
 | [Shuttle](https://github.com/malimichael/Shuttle)        | An Itinerary app for touring musicians. Having a keen interest in server-less technologies, I wanted to explore how I could utilise cloud computing and google's firebase to create an app which was useable on both android and iOS.    | Mobile, React Native, Redux, Firebase            |
-| [Codey Gonzalez](https://github.com/malimichael/codey-gonzalez) | A speed type racer for keen coders. Participating in a 3 day hackathon myself and a team of 4 were tasked with creating an efficiency tool for developers. Channelling the full power of Javascript we were successful in creating a fun and user-friendly experience. [Try it out](https://codey-gonzalez.herokuapp.com/) on Heroku.     |  Vanilla JS, Ruby, JQuery, Postgres              |
+| [Codey Gonzalez](https://github.com/malimichael/codey-gonzalez) | A speed type racer for keen coders. Participating in a 3 day hackathon myself and a team of 4 were tasked with creating an efficiency tool for developers. Channelling the full power of Javascript we were successful in creating a fun and user-friendly experience. [Try it out](https://codey-gonzalez.herokuapp.com/) on Heroku.     |  Ruby, JQuery, Postgres              |
 | [Tunebay](https://github.com/tunebay)        | A way to connect with and directly support the music you love. Tunebay is built putting UX first. A lightweight yet robust Express server coupled with a React front end that securely communicates with S3      |  React, Redux, Express, Node.js, AWS, Postgres   |
 | [Flare](https://github.com/appflare/flare)          | An app for discovering amazing moments around you. With no prior knowledge of Swift or XCode myself and a team of 5 built a fully functional  social app. Following agile principles and best practices we finish our MVP within just 8 days. You can watch a demo of the app [Here](https://www.youtube.com/watch?v=1hvx8iv2YgY), or even [Download it on the app store!](https://itunes.apple.com/us/app/flare-share-and-discover-spontaneous-moments/id1166173727?mt=8)     |  iOS, Swift, Objective-C, Xcode                         |
 
@@ -74,7 +68,7 @@ Working as both an artist signed to Warner Brothers Records and a writer publish
 
   BTEC Level 3 Extended Diploma (Equivalent to three A-Levels)
 
-  - A course that stretched me in all aspects of music performance, composition, engineering and production, and industry practice.
+  - A course that stretched me in all aspects of music performance, composition, engineering and production.
 
 **Highgate Woods Performing Arts College (2004 - 2009)**
 
@@ -82,6 +76,7 @@ Working as both an artist signed to Warner Brothers Records and a writer publish
 
 ## Achievements and Interests
 
-- I am currently working towards my private pilots licence with 16 logged hours to date.
-- A 2x platinum plaque awarded to me by BPI for sales in excess of 600,000 for [my participation](https://www.youtube.com/watch?v=aBFEBeOTGXc) in the Chase and Status album 'No More Idols'
-- Supporting Ed Sheeran on his sold out stadium World tour.
+- A 2x platinum plaque awarded to me by BPI for sales in excess of 600,000 for [my song](https://www.youtube.com/watch?v=aBFEBeOTGXc) on the Chase and Status album 'No More Idols'
+- I have a keen interest in aerodynamics and am currently working towards my private pilots licence with 16 logged hours to date.
+- [Singing around the world](https://www.youtube.com/watch?v=61l3m2PgX8w) with rudimental including our support of Ed Sheeran on his sold out stadium World tour.
+- Advancing from 3 juggling balls to 5.
