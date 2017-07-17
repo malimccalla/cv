@@ -2,33 +2,24 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-As a musician I've been told that I think differently, that I think in sounds and pictures rather than in words. Software development always seemed a perfect fit as it combines logical problem-solving with creative thinking. After graduating from Europe's leading developer bootcamp last year I now spend most of my time perfectly aligning pixels, ~~nesting callbacks~~ chaining promises, and turning red tests green.
+As a musician I've been told that I think differently, in sounds and pictures rather than in words. Software development has always fascinated me, just like music it demands skills that combine logical problem-solving with creative thinking. After graduating from Europe's leading developer bootcamp last year I now spend most of my time perfectly aligning pixels and ~~nesting callbacks~~ chaining promises. In pursuit of a career founded on continuous self-improvement, I'm looking to join an ambitious team with a shared vision.
 
 ## Skills
 
-#### Tenacity
+#### Collaboration
 
-Sometimes I understand things and sometimes I don't. All time I work on moving the latter to the former.
+ - Team work
+ - Good Communication
+ - adaptable
 
-#### Communication
+#### Creative thinking
 
-tenacity -
 
-Passionate
+#### Curiosity
 
-adaptable
+  -
 
-Organisation
-- Planning
-- Strategizing
 
-Decisive And Action Oriented
+#### User Experience
 
-Time management
-
-cognitive benefits you gain just by learning an instrument.
-]]
-
-Allows me to solve problems more effectively and creatively
-
-œ∑µ~∫√ç≈Ωåß
+  - Quick grasp of concepts
