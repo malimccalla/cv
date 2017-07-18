@@ -1,6 +1,6 @@
 # Mali Michael
 
-[Projects](#projects) | [Skills](#skills) |  [Education](#education) | [Experience](#experience) | [Achievements & Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Achievements & Interests](#interests)
 
 As a musician I've been told that I think differently, in sounds and pictures rather than in words. Software development has always fascinated me, just like music it demands skills that combine logical problem-solving with creative thinking. In pursuit of a career founded on continuous self-improvement, I'm looking to join an ambitious team with a shared vision. After graduating from Europe's leading developer bootcamp last year I now spend most of my time perfectly aligning pixels and ~~nesting callbacks~~ chaining promises.
 
@@ -8,15 +8,14 @@ As a musician I've been told that I think differently, in sounds and pictures ra
 
 #### Collaboration
 
-  Being a writer it was my job to collaborate with other people, to construct musical stories and relatable lyrics. Working in a team has enabled me to create some of my best work. In being able to see things from other peoples point of view I have learnt to make effective decisions based on both emotional reasoning and intuition. At the very core of every successful collaborative project I have ever worked on lies good communication, a skill that I once feared but have come to master over time.
+  Working as a writer it was my job to collaborate with other people, to construct musical stories and relatable lyrics. In being able to see things from other peoples point of view I have learnt to make effective decisions based on both emotional reasoning and intuition. At the very core of every successful collaborative project I have ever worked on lies good communication, a skill that I once feared but have come to master over time. Working in a team has enabled me to create some of my best work.
 
 #### Creative thinking
 
   A big part of what attracts me to coding is that it presents new challenges in all shapes and sizes. My ability to apply creative thinking in both a digital and non-digital environment allows me to tackle these challenges from a different perspective. Not afraid to take chances, I know that in an ever changing tech industry you need to be able explore innovative and original ways to go about solving problems.
 
-#### Curiosity
+#### Diligence
 
-  Curiosity, as I'm sure the proverbial cat would protest, is the
 
 
   <!-- Passionate
@@ -36,13 +35,14 @@ As a musician I've been told that I think differently, in sounds and pictures ra
 
   Allows me to solve problems more effectively and creatively -->
 
+  <!-- Curiosity, as I'm sure the proverbial cat would protest, is the -->
 ## Projects
 
 | Project        | Description   | Tech                                             |
 | -------------  |---------------|:--------------------:                              |
 | [Shuttle](https://github.com/malimichael/Shuttle)        | An Itinerary app for touring musicians. Having a keen interest in server-less technologies, I wanted to explore how I could utilise cloud computing and google's firebase to create an app which was useable on both android and iOS.    | Mobile, React Native, Redux, Firebase            |
 | [Codey Gonzalez](https://github.com/malimichael/codey-gonzalez) | A speed type racer for keen coders. Participating in a 3 day hackathon myself and a team of 4 were tasked with creating an efficiency tool for developers. Channelling the full power of Javascript we were successful in creating a fun and user-friendly experience. [Try it out](https://codey-gonzalez.herokuapp.com/) on Heroku.     |  Ruby, JQuery, Postgres              |
-| [Tunebay](https://github.com/tunebay)        | A way to connect with and directly support the music you love. Tunebay is built putting UX first. A lightweight yet robust Express server coupled with a React front end that securely communicates with S3      |  React, Redux, Express, Node.js, AWS, Postgres   |
+| [Tunebay](https://github.com/tunebay)        | A way to connect with and directly support the music you love. Tunebay is built putting UX first. A lightweight yet robust Express server coupled with a React front end that securely communicates with S3.      |  React, Redux, Express, Node.js, AWS, Postgres   |
 | [Flare](https://github.com/appflare/flare)          | An app for discovering amazing moments around you. With no prior knowledge of Swift or XCode myself and a team of 5 built a fully functional  social app. Following agile principles and best practices we finish our MVP within just 8 days. You can watch a demo of the app [Here](https://www.youtube.com/watch?v=1hvx8iv2YgY), or even [Download it on the app store!](https://itunes.apple.com/us/app/flare-share-and-discover-spontaneous-moments/id1166173727?mt=8)     |  iOS, Swift, Objective-C, Xcode                         |
 
 ## Experience
@@ -53,7 +53,13 @@ Working as both an artist signed to Warner Brothers Records and a writer publish
 
 - **People management**: In charge of organising and managing various tours with various musicians I learnt the importance of becoming a great listener and being able to relate to others.
 
-- **Discipline**: Over the years as a published song-writer I taught myself to play 6 instruments to the highest of standards. I now approach every new challenge with a great amount of discipline and tenacity.
+- **Discipline**: Over the years as a published songwriter I taught myself to play 6 instruments to the highest of standards. I now approach every new challenge with a great amount of discipline and tenacity.
+
+Throughout my time at Warner, I built some amazing relationships and achieved many great things. One of my proudest moments was being awarded a 2x platinum plaque by BPI for sales in excess of 600,000 for [my song](https://www.youtube.com/watch?v=aBFEBeOTGXc) on the Chase and Status album 'No More Idols'.
+
+**Touring - Various artists (2013 - Present)**
+
+Touring around the world brought upon many unpredictable challenges to overcome. It brought out a determination in me to succeed in a very competitive industry. A skill that I now take into every new challenge I face. I became an expert time manager and learnt how to focus my time and energy with ruthless efficiency. My most recent work in this area has been [singing around the world](https://www.youtube.com/watch?v=61l3m2PgX8w#t=1m) with Rudimental including our support of Ed Sheeran on his sold out stadium world tour.
 
 ## Education
 
@@ -74,9 +80,9 @@ Working as both an artist signed to Warner Brothers Records and a writer publish
 
   11 GCSEs all at A* - B
 
-## Achievements and Interests
+## Interests
 
-- A 2x platinum plaque awarded to me by BPI for sales in excess of 600,000 for [my song](https://www.youtube.com/watch?v=aBFEBeOTGXc) on the Chase and Status album 'No More Idols'
-- I have a keen interest in aerodynamics and am currently working towards my private pilots licence with 16 logged hours to date.
-- [Singing around the world](https://www.youtube.com/watch?v=61l3m2PgX8w) with rudimental including our support of Ed Sheeran on his sold out stadium World tour.
-- Advancing from 3 juggling balls to 5.
+- Aerodynamics has always fascinated me and I am currently working towards my private pilots licence with 16 logged hours to date.
+- In my spare time I have been writing a short comedy script portraying the modern day music industry.
+- I like to keep fit by playing tennis and cycling.
+- Experiencing new cultures
