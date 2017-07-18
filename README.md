@@ -1,6 +1,6 @@
 # Mali Michael
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Achievements & Interests](#interests)
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 As a musician I've been told that I think differently, in sounds and pictures rather than in words. Software development has always fascinated me, just like music it demands skills that combine logical problem-solving with creative thinking. In pursuit of a career founded on continuous self-improvement, I'm looking to join an ambitious team with a shared vision. After graduating from Europe's leading developer bootcamp last year I now spend most of my time perfectly aligning pixels and ~~nesting callbacks~~ chaining promises.
 
@@ -14,28 +14,6 @@ As a musician I've been told that I think differently, in sounds and pictures ra
 
   A big part of what attracts me to coding is that it presents new challenges in all shapes and sizes. My ability to apply creative thinking in both a digital and non-digital environment allows me to tackle these challenges from a different perspective. Not afraid to take chances, I know that in an ever changing tech industry you need to be able explore innovative and original ways to go about solving problems.
 
-#### Diligence
-
-
-
-  <!-- Passionate
-
-  adaptable
-
-  Organisation
-  - Planning
-  - Strategizing
-
-  Decisive And Action Oriented
-
-  Time management
-
-  cognitive benefits you gain just by learning an instrument.
-  ]]
-
-  Allows me to solve problems more effectively and creatively -->
-
-  <!-- Curiosity, as I'm sure the proverbial cat would protest, is the -->
 ## Projects
 
 | Project        | Description   | Tech                                             |
