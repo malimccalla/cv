@@ -1,5 +1,7 @@
 # Mali McCalla
 
+[https://github.com/malimccalla](https://github.com/malimccalla)
+
 **TL;DR:** A musician on a mission to revolutionise the music industry.
 
 [Skills](#skills) | [Experience](#experience) | [Side Projects](#projects) | [Education](#education) | [Interests](#interests)
