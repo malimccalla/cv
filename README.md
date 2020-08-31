@@ -1,30 +1,56 @@
 # Mali McCalla
 
-[https://github.com/malimccalla](https://github.com/malimccalla)
+GitHub: [https://github.com/malimccalla](https://github.com/malimccalla)
+LinkedIn: [https://www.linkedin.com/in/malimccalla/](https://www.linkedin.com/in/malimccalla/)
 
-**TL;DR:** A musician on a mission to revolutionise the music industry.
+**TL;DR:** A product focussed developer on a mission to revolutionise industries.
 
 [Skills](#skills) | [Experience](#experience) | [Side Projects](#projects) | [Education](#education) | [Interests](#interests)
 
-As a musician I've been told that I think differently, in sounds and pictures rather than in words. Software development has always fascinated me, just like music it demands skills that combine logical problem-solving with creative thinking. In pursuit of a career founded on continuous self-improvement, I'm looking to join an ambitious team with a shared vision. After graduating from Europe's leading developer bootcamp in 2016 I now spend most of my time exploring new technologies and ~~nesting callbacks~~ ~~chaining promises~~ async/ awaiting.
+As a musician I've been told that I think differently, in sounds and pictures rather than in words. Software development has always fascinated me, just like music it demands skills that combine logical problem-solving with creative thinking. In pursuit of a career founded on continuous self-improvement, I look to join ambitious teams with a shared vision. After graduating from Europe's leading developer bootcamp in 2016 I now spend most of my time exploring new technologies and ~~nesting callbacks~~ ~~chaining promises~~ async/ awaiting.
 
 ## Skills
 
-#### Collaboration
+#### Software Development
 
-Working as a writer it was my job to collaborate with other people, to construct musical stories and relatable lyrics. In being able to see things from other peoples point of view I have learnt to make effective decisions based on both emotional reasoning and intuition. At the very core of every successful collaborative project I have ever worked on lies good communication, a skill that I once feared but have come to master over time. Working in a team has enabled me to create some of my best work.
+Over 5 years expereince in developing digital products and services has taught me the importance of writing clean code.
 
-#### Creative thinking
+#### Project Management
 
-A big part of what attracts me to coding is that it presents new challenges in all shapes and sizes. My ability to apply creative thinking in both a digital and non-digital environment allows me to tackle these challenges from a different perspective. Not afraid to take chances, I know that in an ever changing tech industry you need to be able explore innovative and original ways to go about solving problems.
+At the core of every successful project I have ever worked on lies good communication, a skill that I once feared but have come to master over time. I have managed projects from idea stage all the way to production.
+
+#### UX/UI Design
+
+A big part of what attracts me to the tech industry is that it presents new challenges in all shapes and sizes, including that of design. As a product focused developer my first concern is always the end user. As the sole UX/UI designer of [Tunebase](https://tunebase.com). My ability to apply creative thinking in both a digital and non-digital environment allows me to tackle these challenges from a different perspective. Not afraid to take chances, I know that in an ever changing tech industry you need to be able explore innovative and original ways to go about solving problems.
 
 ## Experience
+
+**Tunebase (June 2019 - Present)**
+
+[https://tunebase.com](https://tunebase.com)
+
+As the founder and CEO of my own tech company I have learnt what it takes to build and maintain a production grade application.
+
+**Technologies**
+
+- React/Next.js
+- Node/Express
+- Apollo GraphQL
+- Google Cloud
+- Docker/Kubernetes
+- TypeScript
+- HTML/CSS3
+- PostgresSQL
+- Redis
+- Jest/Cypress
+- Stripe
+- Sketch
 
 **JAAK (Apr 2018 - Jun 2019)**
 
 [https://jaak.io](https://jaak.io)
 
-In the ever changing web development landscape my role as a Javascript Engineer at JAAK was forever evolving.
+In the ever changing web development landscape my role as a Javascript Engineer at JAAK was forever evolving. Collaborating with the largest organisations in the music industry, I was a part of a team developing a blockchain-based solution for the registration, assignment and management of intellectual property rights.
 
 **Technologies**
 
@@ -41,7 +67,7 @@ In the ever changing web development landscape my role as a Javascript Engineer 
 
 [https://trippin.world](https://trippin.world)
 
-I was one half of the development team tasked to build the Trippin travel app. With React Native as my choice of weapon I stepped up to the job a took the app from design/concept stage all the way to production.
+End-to-end delivery of an iOS app for a seed-stage startup: product discovery, implementation, project management & launch on the App Store—implemented in React Native + GraphQL and a Node.js + MongoDB backend using a type-safe event sourcing architecture.
 
 **Technologies**
 
@@ -52,13 +78,13 @@ I was one half of the development team tasked to build the Trippin travel app. W
 - GraphQL
 - Flow
 
-**Warner Brothers Entertainment (Dec 2010 - Dec 2015)**
+**Warner Chappell Music (Dec 2010 - Dec 2015)**
 
-Working as both an artist signed to Warner Brothers Records and a writer published by Warner Chappel I gained a variety priceless skills and expertise.
+As a songwriter, I have worked with some of the best writers and producers in the industry. I have written songs with artists such as John Legend and worked with producer/writers behind some of the biggest artists of our time such as Amy Winehouse, Ed Sheeran, and Kanye West.
 
-- **People management**: In charge of organising and managing various tours with various musicians I learnt the importance of becoming a great listener and being able to relate to others.
+**Warner Bros. Records (Dec 2010 - Dec 2015)**
 
-- **Discipline**: Over the years as a published songwriter I taught myself to play 6 instruments to the highest of standards. I now approach every new challenge with a great amount of discipline and tenacity.
+Throughout my time at Warner, I built up amazing relationships and achieved many great things. One of my proudest moments was being awarded a 2x platinum plaque by BPI for sales in excess of 600,000 for my song on the Chase and Status album 'No More Idols'. More recently I have toured around the world with Rudimental including our support of Ed Sheeran on his sold-out stadium world tour.
 
 Throughout my time at Warner, I built up amazing relationships and achieved many great things. One of my proudest moments was being awarded a 2x platinum plaque by BPI for sales in excess of 600,000 for [my song](https://www.youtube.com/watch?v=aBFEBeOTGXc) on the Chase and Status album 'No More Idols'.
 
@@ -103,4 +129,4 @@ BTEC Level 3 Extended Diploma (Equivalent to three A-Levels)
 
 **_disclaimer:_**
 
-Sometimes I know things and sometimes I don't. I'm ok with that because at _all times_ I work on moving the latter to the former (and if all fails there's probably an npm package for it 📦).
+Sometimes I know things and sometimes I don't. I'm ok with that because at _all times_ I work on moving the latter to the former (and if all else fails there's probably an npm package for it 📦).
