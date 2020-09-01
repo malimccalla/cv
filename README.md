@@ -13,15 +13,15 @@ As a musician I've been told that I think differently, in sounds and pictures ra
 
 #### Software Development
 
-Over 5 years expereince in developing digital products and services has taught me the importance of writing clean code.
+Over 5 years expereince in developing digital products and services has taught me the importance of writing clean maintainable code. Following best practices comes naturally to me and I believe the best code is the easiest to delete. With experience accross entire stack I am comfortable in both frontend and backend positions. My current areas of interest include container orchestration tools such as [Kubernetes](https://kubernetes.io/) and component driven design tools such as [Framer](https://www.framer.com/).
 
-#### Project Management
+#### Product Management
 
-At the core of every successful project I have ever worked on lies good communication, a skill that I once feared but have come to master over time. I have managed projects from idea stage all the way to production.
+At the core of every successful project I have ever worked on lies good communication, a skill that I once feared but have come to master over time. I have sucessfully managed projects from idea stage all the way to production. The lifecycle of a product can be a full of blockers, iterations, and pivots. I have acted as a clear and concise voice that helps to bridge the divide between engineering and commercial teams at a companies.
 
 #### UX/UI Design
 
-A big part of what attracts me to the tech industry is that it presents new challenges in all shapes and sizes, including that of design. As a product focused developer my first concern is always the end user. As the sole UX/UI designer of [Tunebase](https://tunebase.com). My ability to apply creative thinking in both a digital and non-digital environment allows me to tackle these challenges from a different perspective. Not afraid to take chances, I know that in an ever changing tech industry you need to be able explore innovative and original ways to go about solving problems.
+A big part of what attracts me to the tech industry is that it presents new challenges in all shapes and sizes, including that of design. As the sole UX/UI designer of [Tunebase](https://tunebase.com), I applied my creative thinking in both a digital and non-digital environment allowing me to tackle these challenges from a different perspective. As a product focused developer my first concern is always the end user. Not afraid to take chances, I know that in an ever changing tech industry you need to be able explore innovative and original ways to go about solving problems.
 
 ## Experience
 
@@ -29,7 +29,7 @@ A big part of what attracts me to the tech industry is that it presents new chal
 
 [https://tunebase.com](https://tunebase.com)
 
-As the founder and CEO of my own tech company I have learnt what it takes to build and maintain a production grade application.
+As the founder and CEO of my own tech company I have learnt what it takes to build and maintain a production grade application. Navigating the startup world can be a rollercoaster, and I was forced to learn quickly, fail fast, and forever adapt.
 
 **Technologies**
 
@@ -80,13 +80,15 @@ End-to-end delivery of an iOS app for a seed-stage startup: product discovery, i
 
 **Warner Chappell Music (Dec 2010 - Dec 2015)**
 
+[https://www.warnerchappell.com/](https://www.warnerchappell.com/)
+
 As a songwriter, I have worked with some of the best writers and producers in the industry. I have written songs with artists such as John Legend and worked with producer/writers behind some of the biggest artists of our time such as Amy Winehouse, Ed Sheeran, and Kanye West.
 
 **Warner Bros. Records (Dec 2010 - Dec 2015)**
 
-Throughout my time at Warner, I built up amazing relationships and achieved many great things. One of my proudest moments was being awarded a 2x platinum plaque by BPI for sales in excess of 600,000 for my song on the Chase and Status album 'No More Idols'. More recently I have toured around the world with Rudimental including our support of Ed Sheeran on his sold-out stadium world tour.
+[http://www.warnerrecords.com/](http://www.warnerrecords.com/)
 
-Throughout my time at Warner, I built up amazing relationships and achieved many great things. One of my proudest moments was being awarded a 2x platinum plaque by BPI for sales in excess of 600,000 for [my song](https://www.youtube.com/watch?v=aBFEBeOTGXc) on the Chase and Status album 'No More Idols'.
+Throughout my time at Warner Brothers, I built up amazing relationships and achieved many great things. One of my proudest moments was being awarded a 2x platinum plaque by BPI for sales in excess of 600,000 for [my song](https://www.youtube.com/watch?v=aBFEBeOTGXc) on the Chase and Status album 'No More Idols'.
 
 **Touring - Various artists (2013 - Present)**
 
@@ -94,14 +96,17 @@ Touring around the world brought upon many unpredictable challenges to overcome.
 
 ## Side Projects
 
-| Project                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                     Tech                      |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------: |
-| [Shuttle](https://github.com/malimccalla/Shuttle)               | An Itinerary app for touring musicians. Having a keen interest in server-less technologies, I wanted to explore how I could utilise cloud computing and google's firebase to create an app which was useable on both android and iOS.                                                                                                                                                                                                                                     |     Mobile, React Native, Redux, Firebase     |
-| [Codey Gonzalez](https://github.com/malimccalla/codey-gonzalez) | A speed type racer for keen coders. Participating in a 3 day hackathon myself and a team of 4 were tasked with creating an efficiency tool for developers. Channelling the full power of Javascript we were successful in creating a fun and user-friendly experience. [Try it out](https://codey-gonzalez.herokuapp.com/) on Heroku.                                                                                                                                     |            Ruby, JQuery, Postgres             |
-| [Tunebay](https://github.com/tunebay)                           | A way to connect with and directly support the music you love. Tunebay is built putting UX first. A lightweight yet robust Express server coupled with a React front end that securely communicates with S3.                                                                                                                                                                                                                                                              | React, Redux, Express, Node.js, AWS, Postgres |
-| [Flare](https://github.com/appflare/flare)                      | An app for discovering amazing moments around you. With no prior knowledge of Swift or XCode myself and a team of 5 built a fully functional social app. Following agile principles and best practices we finish our MVP within just 8 days. You can watch a demo of the app [Here](https://www.youtube.com/watch?v=1hvx8iv2YgY), or even [Download it on the app store!](https://itunes.apple.com/us/app/flare-share-and-discover-spontaneous-moments/id1166173727?mt=8) |        iOS, Swift, Objective-C, Xcode         |
+| Project                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                 Tech                  |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: |
+| [Shuttle](https://github.com/malimccalla/Shuttle)               | An Itinerary app for touring musicians. Having a keen interest in server-less technologies, I wanted to explore how I could utilise cloud computing and google's firebase to create an app which was useable on both android and iOS.                                                                                                                                                                                                                                     | Mobile, React Native, Redux, Firebase |
+| [Codey Gonzalez](https://github.com/malimccalla/codey-gonzalez) | A speed type racer for keen coders. Participating in a 3 day hackathon myself and a team of 4 were tasked with creating an efficiency tool for developers. Channelling the full power of Javascript we were successful in creating a fun and user-friendly experience. [Try it out](https://codey-gonzalez.herokuapp.com/) on Heroku.                                                                                                                                     |        Ruby, JQuery, Postgres         |
+| [Flare](https://github.com/appflare/flare)                      | An app for discovering amazing moments around you. With no prior knowledge of Swift or XCode myself and a team of 5 built a fully functional social app. Following agile principles and best practices we finish our MVP within just 8 days. You can watch a demo of the app [Here](https://www.youtube.com/watch?v=1hvx8iv2YgY), or even [Download it on the app store!](https://itunes.apple.com/us/app/flare-share-and-discover-spontaneous-moments/id1166173727?mt=8) |    iOS, Swift, Objective-C, Xcode     |
 
 ## Education
+
+**Self Education (∞)**
+
+I'm a strong believer in self education and development. Constantly exploring new technologies and techniques keeps me forever learning and innovating. I have a drive to out learn everyone, always looking to develop my strengths and improve upon my weaknesses to further myself.
 
 **Makers Academy (Jul — Sep 2016)**
 
@@ -124,7 +129,6 @@ BTEC Level 3 Extended Diploma (Equivalent to three A-Levels)
 
 - Aerodynamics has always fascinated me and I am currently working towards my private pilots licence with 16 logged hours to date.
 - In my spare time I have been writing a short comedy script portraying the modern day music industry.
-- Experiencing new cultures
 - 🏓
 
 **_disclaimer:_**
