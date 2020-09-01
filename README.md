@@ -7,21 +7,21 @@ LinkedIn: [https://www.linkedin.com/in/malimccalla/](https://www.linkedin.com/in
 
 [Skills](#skills) | [Experience](#experience) | [Side Projects](#projects) | [Education](#education) | [Interests](#interests)
 
-As a musician I've been told that I think differently, in sounds and pictures rather than in words. Software development has always fascinated me, just like music it demands skills that combine logical problem-solving with creative thinking. In pursuit of a career founded on continuous self-improvement, I look to join ambitious teams with a shared vision. After graduating from Europe's leading developer bootcamp in 2016 I now spend most of my time exploring new technologies and ~~nesting callbacks~~ ~~chaining promises~~ async/ awaiting.
+As a musician, I've been told that I think differently, in sounds and pictures rather than in words. Software development has always fascinated me, just like music it demands skills that combine logical problem-solving with creative thinking. In pursuit of a career founded on continuous self-improvement, I'm looking to join an ambitious team with a shared vision. After graduating from Europe's leading developer bootcamp in 2016 I now spend most of my time exploring new technologies and ~~nesting callbacks~~ ~~chaining promises~~ async/ awaiting.
 
 ## Skills
 
 #### Software Development
 
-Over 5 years expereince in developing digital products and services has taught me the importance of writing clean maintainable code. Following best practices comes naturally to me and I believe the best code is the easiest to delete. With experience accross entire stack I am comfortable in both frontend and backend positions. My current areas of interest include container orchestration tools such as [Kubernetes](https://kubernetes.io/) and component driven design tools such as [Framer](https://www.framer.com/).
+Over 5 years of experience in developing digital products and services has taught me the importance of writing clean maintainable code. Following industry best practices comes naturally to me and I believe that the best code is the easy to understand and easy to delete. With experience across the entire stack, I am comfortable in both frontend and backend positions. My current areas of interest include container orchestration tools such as [Kubernetes](https://kubernetes.io/) and component-driven design tools such as [Framer](https://www.framer.com/).
 
 #### Product Management
 
-At the core of every successful project I have ever worked on lies good communication, a skill that I once feared but have come to master over time. I have sucessfully managed projects from idea stage all the way to production. The lifecycle of a product can be a full of blockers, iterations, and pivots. I have acted as a clear and concise voice that helps to bridge the divide between engineering and commercial teams at a companies.
+At the core of every successful project I have ever worked on lies good communication, a skill that I once feared but have come to master over time. I have successfully managed projects from the idea stage to production. The lifecycle of a product can be full of blockers, iterations, and pivots. I have acted as a clear and concise voice that helps to bridge the divide between engineering and commercial teams at companies.
 
 #### UX/UI Design
 
-A big part of what attracts me to the tech industry is that it presents new challenges in all shapes and sizes, including that of design. As the sole UX/UI designer of [Tunebase](https://tunebase.com), I applied my creative thinking in both a digital and non-digital environment allowing me to tackle these challenges from a different perspective. As a product focused developer my first concern is always the end user. Not afraid to take chances, I know that in an ever changing tech industry you need to be able explore innovative and original ways to go about solving problems.
+A big part of what attracts me to the tech industry is that it presents new challenges in all shapes and sizes, including that of design. As the sole UX/UI designer of [Tunebase](https://tunebase.com), I applied my creative thinking in both a digital and non-digital environment allowing me to tackle these challenges from a different perspective. As a product-focused developer, my first concern is always the end-user. Not afraid to take chances, I know that in an ever-changing tech industry you need to be able to explore innovative and original ways to go about solving problems.
 
 ## Experience
 
@@ -29,7 +29,7 @@ A big part of what attracts me to the tech industry is that it presents new chal
 
 [https://tunebase.com](https://tunebase.com)
 
-As the founder and CEO of my own tech company I have learnt what it takes to build and maintain a production grade application. Navigating the startup world can be a rollercoaster, and I was forced to learn quickly, fail fast, and forever adapt.
+As the founder and CEO of my own tech company, I have learnt what it takes to build and maintain a production-grade application. Navigating the startup world can be a rollercoaster, and I was forced to learn quickly, fail fast, and forever adapt.
 
 **Technologies**
 
@@ -50,7 +50,7 @@ As the founder and CEO of my own tech company I have learnt what it takes to bui
 
 [https://jaak.io](https://jaak.io)
 
-In the ever changing web development landscape my role as a Javascript Engineer at JAAK was forever evolving. Collaborating with the largest organisations in the music industry, I was a part of a team developing a blockchain-based solution for the registration, assignment and management of intellectual property rights.
+In the ever-changing web development landscape, my role as a Javascript Engineer at JAAK was forever evolving. Collaborating with the largest organisations in the music industry, I was a part of a team developing a blockchain-based solution for the registration, assignment and management of intellectual property rights.
 
 **Technologies**
 
@@ -96,11 +96,11 @@ Touring around the world brought upon many unpredictable challenges to overcome.
 
 ## Side Projects
 
-| Project                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                 Tech                  |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: |
-| [Shuttle](https://github.com/malimccalla/Shuttle)               | An Itinerary app for touring musicians. Having a keen interest in server-less technologies, I wanted to explore how I could utilise cloud computing and google's firebase to create an app which was useable on both android and iOS.                                                                                                                                                                                                                                     | Mobile, React Native, Redux, Firebase |
-| [Codey Gonzalez](https://github.com/malimccalla/codey-gonzalez) | A speed type racer for keen coders. Participating in a 3 day hackathon myself and a team of 4 were tasked with creating an efficiency tool for developers. Channelling the full power of Javascript we were successful in creating a fun and user-friendly experience. [Try it out](https://codey-gonzalez.herokuapp.com/) on Heroku.                                                                                                                                     |        Ruby, JQuery, Postgres         |
-| [Flare](https://github.com/appflare/flare)                      | An app for discovering amazing moments around you. With no prior knowledge of Swift or XCode myself and a team of 5 built a fully functional social app. Following agile principles and best practices we finish our MVP within just 8 days. You can watch a demo of the app [Here](https://www.youtube.com/watch?v=1hvx8iv2YgY), or even [Download it on the app store!](https://itunes.apple.com/us/app/flare-share-and-discover-spontaneous-moments/id1166173727?mt=8) |    iOS, Swift, Objective-C, Xcode     |
+| Project                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                 Tech                  |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: |
+| [Shuttle](https://github.com/malimccalla/Shuttle)               | An Itinerary app for touring musicians. Having a keen interest in server-less technologies, I wanted to explore how I could utilise cloud computing and google's firebase to create an app which was useable on both android and iOS.                                                                                                                                                                                                                                       | Mobile, React Native, Redux, Firebase |
+| [Codey Gonzalez](https://github.com/malimccalla/codey-gonzalez) | A speed type racer for keen coders. Participating in a 3 day hackathon myself and a team of 4 were tasked with creating an efficiency tool for developers. Channelling the full power of Javascript we were successful in creating a fun and user-friendly experience. [Try it out](https://codey-gonzalez.herokuapp.com/) on Heroku.                                                                                                                                       |        Ruby, JQuery, Postgres         |
+| [Flare](https://github.com/appflare/flare)                      | An app for discovering amazing moments around you. With no prior knowledge of Swift or XCode, myself and a team of 5 built a fully functional social app. Following agile principles and best practices, we finish our MVP within just 8 days. You can watch a demo of the app [Here](https://www.youtube.com/watch?v=1hvx8iv2YgY), or even [Download it on the app store!](https://itunes.apple.com/us/app/flare-share-and-discover-spontaneous-moments/id1166173727?mt=8) |    iOS, Swift, Objective-C, Xcode     |
 
 ## Education
 
@@ -113,7 +113,7 @@ I'm a strong believer in self education and development. Constantly exploring ne
 - 12 week, full-time computer programming course based on the principles of software craftsmanship
 - Focus on writing clean, test-driven code.
 - Object-oriented design, abiding by SOLID principles
-- Team work based on Agile development
+- Teamwork based on Agile development
 
 **British Academy Of New Music (2009 - 2011)**
 
