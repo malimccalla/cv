@@ -13,7 +13,7 @@ As a musician, I've been told that I think differently, in sounds and pictures r
 
 #### Software Development
 
-Over 5 years of experience in developing digital products and services has taught me the importance of writing clean maintainable code. Following industry best practices comes naturally to me and I believe that the best code is the easy to understand and easy to delete. With experience across the entire stack, I am comfortable in both frontend and backend positions. My current areas of interest include container orchestration tools such as [Kubernetes](https://kubernetes.io/) and component-driven design tools such as [Framer](https://www.framer.com/).
+Over 5 years of experience in developing digital products and services has taught me the importance of writing clean maintainable code. Following industry best practices comes naturally to me and I believe that the best code is easy to understand and easy to delete. With experience across the entire stack, I am comfortable in both frontend and backend positions. My current areas of interest include container orchestration tools such as [Kubernetes](https://kubernetes.io/) and component-driven design tools such as [Framer](https://www.framer.com/).
 
 #### Product Management
 
