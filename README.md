@@ -25,7 +25,24 @@ A big part of what attracts me to the tech industry is that it presents new chal
 
 ## Experience
 
-**Tunebase (June 2019 - Present)**
+**Thespie - Lead Engineer (September 2020 - Present)**
+
+[https://thespie.com](https://thespie.com)
+
+
+Leading the engineering team at a fast-growing creative start-up my role includes expanding the companies digital offering, redefining our cloud infrastructure, hiring exceptional tech talent, and defining processes that allow the company to scale.
+
+**Technologies**
+
+- AWS/Elastic Beanstalk
+- Docker
+- React/Next.js
+- Apollo GraphQL
+- TypeScript
+- HTML/CSS3
+- PostgresSQL
+
+**Tunebase - Founder (June 2019 - Present)**
 
 [https://tunebase.com](https://tunebase.com)
 
@@ -46,11 +63,11 @@ As the founder and CEO of my own tech company, I have learnt what it takes to bu
 - Stripe
 - Sketch
 
-**JAAK (Apr 2018 - Jun 2019)**
+**JAAK - Software Engineer (Apr 2018 - Jun 2019)**
 
 [https://jaak.io](https://jaak.io)
 
-In the ever-changing web development landscape, my role as a Javascript Engineer at JAAK was forever evolving. Collaborating with the largest organisations in the music industry, I was a part of a team developing a blockchain-based solution for the registration, assignment and management of intellectual property rights.
+In the ever-changing web development landscape, my role as an engineer at JAAK was forever evolving. Collaborating with the largest organisations in the music industry, I was a part of a team developing a blockchain-based solution for the registration, assignment and management of intellectual property rights.
 
 **Technologies**
 
@@ -63,7 +80,7 @@ In the ever-changing web development landscape, my role as a Javascript Engineer
 - HTML/CSS3
 - Jest/Cypress
 
-**Trippin (Sep 2017 - Apr 2018)**
+**Trippin - Software Engineer (Sep 2017 - Apr 2018)**
 
 [https://trippin.world](https://trippin.world)
 
@@ -98,7 +115,7 @@ Touring around the world brought upon many unpredictable challenges to overcome.
 
 | Project                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                 Tech                  |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: |
-| [Shuttle](https://github.com/malimccalla/Shuttle)               | An Itinerary app for touring musicians. Having a keen interest in server-less technologies, I wanted to explore how I could utilise cloud computing and google's firebase to create an app which was useable on both android and iOS.                                                                                                                                                                                                                                       | Mobile, React Native, Redux, Firebase |
+| [Shuttle](https://github.com/malimccalla/Shuttle)               | An Itinerary app for touring musicians. Having a keen interest in server-less technologies, I wanted to explore how I could utilise cloud computing and google's firebase to create an app which was both android and iOS compatible.                                                                                                                                                                                                                                       | Mobile, React Native, Redux, Firebase |
 | [Codey Gonzalez](https://github.com/malimccalla/codey-gonzalez) | A speed type racer for keen coders. Participating in a 3 day hackathon myself and a team of 4 were tasked with creating an efficiency tool for developers. Channelling the full power of Javascript we were successful in creating a fun and user-friendly experience. [Try it out](https://codey-gonzalez.herokuapp.com/) on Heroku.                                                                                                                                       |        Ruby, JQuery, Postgres         |
 | [Flare](https://github.com/appflare/flare)                      | An app for discovering amazing moments around you. With no prior knowledge of Swift or XCode, myself and a team of 5 built a fully functional social app. Following agile principles and best practices, we finish our MVP within just 8 days. You can watch a demo of the app [Here](https://www.youtube.com/watch?v=1hvx8iv2YgY), or even [Download it on the app store!](https://itunes.apple.com/us/app/flare-share-and-discover-spontaneous-moments/id1166173727?mt=8) |    iOS, Swift, Objective-C, Xcode     |
 
